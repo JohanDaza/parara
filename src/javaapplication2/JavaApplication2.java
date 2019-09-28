@@ -16,7 +16,7 @@ public class JavaApplication2 {
         int c = 1;
         for(int i=0;i<n;i++){
             c = c * 2;
-            System.out.println(c + "safsaf" + "te Amo for me");
+            System.out.println(c + "safsaf" + "te Amo ILY");
         }
         
     }
